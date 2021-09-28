@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
+**In this project we have eslint and prettier setup.
+
+Read about the setup at https://kumargandhi.in/2021/09/28/setup-eslint-and-prettier-in-angular-app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
